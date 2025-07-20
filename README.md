@@ -18,7 +18,11 @@
 
 ### 📊 GitHub Stats
 
-![Bijoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bijoyraju&show_icons=true&theme=radical) <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bijoyraju&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bijoyraju&show_icons=true&theme=radical" height="165"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijoyraju&layout=compact&theme=radical" height="165"/>
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -35,4 +39,3 @@
 <a href="https://www.buymeacoffee.com/bijoyraju6j" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
 </a>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bijoyraju&show_icons=true&locale=en" alt="bijoyraju" /></p>
