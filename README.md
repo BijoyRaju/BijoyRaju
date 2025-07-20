@@ -22,7 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bijoyraju&show_icons=true&theme=radical" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bijoyraju&theme=radical" alt="GitHub Streak" />
-  &nbsp;&nbsp;&nbsp;
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijoyraju&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
