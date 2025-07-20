@@ -16,6 +16,13 @@
 
 - ⚡ Fun fact **I think I’m a good learner and love turning ideas into working apps.**
 
+### 📊 GitHub Stats
+
+![Bijoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bijoyraju&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bijoyraju&layout=compact&theme=radical)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bijoy-raju/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/bijoy-raju-92254123b/" height="30" width="40" /></a>
