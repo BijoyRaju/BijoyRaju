@@ -24,6 +24,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijoyraju&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+### 📊 LeetCode Stats
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bijoyraju&show_icons=true&theme=radical" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://leetcard.jacoblin.cool/02J740omsD?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
