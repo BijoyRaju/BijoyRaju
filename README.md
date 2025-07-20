@@ -28,8 +28,6 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bijoyraju&show_icons=true&theme=radical" />
-  &nbsp;&nbsp;&nbsp;
   <img src="https://leetcard.jacoblin.cool/02J740omsD?theme=dark&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
