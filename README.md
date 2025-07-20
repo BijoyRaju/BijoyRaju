@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/02J740omsD?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/02J740omsD?theme=dark&ext" alt="LeetCode Stats" />
 </p>
 
 
