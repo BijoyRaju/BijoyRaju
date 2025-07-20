@@ -18,7 +18,7 @@
 
 ### 📊 GitHub Stats
 
-![Bijoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bijoyraju&show_icons=true&theme=radical)       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bijoyraju&layout=compact&theme=radical)
+![Bijoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bijoyraju&show_icons=true&theme=radical) <br> <br> <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bijoyraju&layout=compact&theme=radical)
 
 
 <h3 align="left">Connect with me:</h3>
