@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Flutter medicine tracking app using Hive for local storage.**
 
-- 🌱 I’m currently learning **Flutter, Dart, and Hive — focusing on local storage and CRUD operations.**
+- 🌱 I’m currently learning **bloc State Management**
 
 - 💬 Ask me about **Flutter,Dart,SQL,PLSQL,Javascript**
 
