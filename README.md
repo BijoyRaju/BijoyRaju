@@ -19,9 +19,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bijoyraju&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bijoyraju&theme=radical&v=2" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijoyraju&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijoyraju&layout=compact&theme=radical&v=2" alt="Top Languages" />
 </p>
 
 ### 📊 LeetCode Stats
