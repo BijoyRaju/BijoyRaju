@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bijoyraju" alt="bijoyraju" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter medicine tracking app using Hive for local storage.**
+- 🔭 I’m currently working on **Flutter FeeBee which is used to track fees.**
 
 - 🌱 I’m currently learning **bloc State Management**
 
