@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bijoyraju" alt="bijoyraju" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter FeeBee which is used to track fees.**
+- 🔭 I’m currently working on **Flutter FeeBee which is used to track fees and a School Managment App.**
 
 - 🌱 I’m currently learning **bloc State Management**
 
@@ -25,7 +25,6 @@
 </p>
 
 ### 📊 LeetCode Stats
-
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/02J740omsD?theme=dark&ext" alt="LeetCode Stats" />
