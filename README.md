@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=4B8BBE&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Bijoy+Raju;Flutter+Developer+%7C+App+Creator;Turning+Ideas+into+Reality" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Passionate Flutter Developer from India | Building Beautiful Mobile Experiences</h3>
+<h3 align="center"> Passionate Flutter Developer from India | Building Beautiful Mobile Experiences</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bijoyraju&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
@@ -121,8 +121,8 @@
 
 <div align="center">
   
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+###  "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-**Thanks for visiting! Let's connect and build something amazing together! 🚀**
+**Thanks for visiting! Let's connect and build something amazing together! **
 
 </div>
