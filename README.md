@@ -43,12 +43,6 @@
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=bijoyraju&theme=radical&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
-## 💻 LeetCode Progress
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/02J740omsD?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" width="500"/>
-</p>
-
 ## 🛠️ Tech Stack
 
 ### 📱 Mobile Development
