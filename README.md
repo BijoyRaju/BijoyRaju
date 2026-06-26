@@ -22,7 +22,7 @@
 - 💬 Ask me about **Flutter, Dart, SQL, PL/SQL**
 - 📫 Reach me at **bijoyraju66@gmail.com**
 - ⚡ Fun fact: **I love turning ideas into working apps and I'm always eager to learn!**
-- 🎯 Goal: **Build impactful applications that make a difference**
+- 🎯 Goal: **Build impactful applications that make a difference** 
 
 <br clear="right"/>
 
