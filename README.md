@@ -1,7 +1,7 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src="./assets/github-header.png" width="100%" alt="Bijoy Raju Banner"/>
+  <img src=".asset/banner.png"/>
 </p>
 
 <h1 align="center">
