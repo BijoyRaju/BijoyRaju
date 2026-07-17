@@ -69,7 +69,7 @@ Flutter Developer • Backend Enthusiast • Clean Architecture • Mobile App D
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="[https://linkedin.com/in/bijoy-raju](https://www.linkedin.com/in/bijoy-raju/](https://www.linkedin.com/in/bijoy-raju/)">
+<a href="https://linkedin.com/in/bijoy-raju">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
