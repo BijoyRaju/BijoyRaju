@@ -1,7 +1,7 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src=".asset/banner.png"/>
+  <img src="asset/banner.png"/>
 </p>
 
 <h1 align="center">
