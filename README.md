@@ -45,7 +45,6 @@ Flutter Developer • Backend Enthusiast • Clean Architecture • Mobile App D
 <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,postgres,mongodb,firebase,git,docker,github,vscode,androidstudio,figma"/>
 
 </p>
----
 
 # 📌 Featured Projects
 
